@@ -1,7 +1,7 @@
 
 Masterless Puppet on Ubuntu 16.04
 
-Mar 6, 2017
+Mar 17, 2018
 
 This tutorial is adapted from this article where we will cover Installing a Masterless Puppet configuration on Ubuntu 16.04 using GitHub.
 
